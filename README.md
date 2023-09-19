@@ -9,3 +9,6 @@ Este código conta com a integração da ferramenta mockapi.io (https://mockapi.
 1. `root`: O código principal com os arquivos `html` em que contém todo os elementos e componentes utilizados em aula.
 2. `images`: Diretório responsável pela inclusão de imagens utilizadas no desenvolvimento
 3. `assets`: Arquivos CSS e JS para compor o frontend da aplicação.
+
+# Documentação mockapi
+[GitHub](https://github.com/mockapi-io/docs/wiki/Quick-start-guide)
