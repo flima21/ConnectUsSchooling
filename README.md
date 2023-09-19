@@ -1,4 +1,4 @@
-# Connect Us - ATUALIZADO EM 2023-09-19
+# CONNECT US - ATUALIZADO EM 2023-09-19
 Projeto de Programação Web - FACENS 2023
 
 # Descrição
